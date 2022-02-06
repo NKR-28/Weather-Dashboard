@@ -3,3 +3,7 @@ Created a weather dashboard which takes in user's preferred US city location and
 Weather is depicted with corresponding weather icon (i.e. cloudy, rainy, etc.), humidity and temperature is reflected in Celsius. 
 
 For visual appeal, the background of the dashboard selects randomly generated nature-centric images.
+
+
+
+https://nkr-28.github.io/Weather-Dashboard/
