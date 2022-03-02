@@ -7,3 +7,5 @@ For visual appeal, the background of the dashboard selects randomly generated na
 
 
 https://nkr-28.github.io/Weather-Dashboard/
+
+<img width="1085" alt="Screen Shot 2022-03-02 at 5 19 06 AM" src="https://user-images.githubusercontent.com/91577650/156369261-3807159e-cee0-4388-98e9-7a16afc9f97d.png">
